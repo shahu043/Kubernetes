@@ -1,1 +1,7 @@
 https://docs.projectcalico.org/getting-started/kubernetes/quickstart
+
+If you want to configure kubernetes network configration from kubernetes document use the below key WORDS or URL.
+
+"Creating Highly Available clusters with kubeadm"
+Or
+https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/high-availability/
