@@ -5,3 +5,5 @@ If you want to configure kubernetes network configration from kubernetes documen
 "Creating Highly Available clusters with kubeadm"
 Or
 https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/high-availability/
+
+https://github.com/flannel-io/flannel/blob/master/Documentation/kube-flannel.yml
